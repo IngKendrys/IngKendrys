@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kendrys Diaz</h1>
 <h3 align="center">A passionate Front-End developer from Colombia 🇨🇴</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingkendrys&label=Profile%20views&color=0e75b6&style=flat" alt="ingkendrys" /> </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ingkendrys&label=Profile%20views&color=0e75b6&style=flat" alt="ingkendrys" />
@@ -11,14 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **GeoAsistencia App**
 - 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **React JS, HTML, CSS, SASS, SCSS**
 - ⚡ Fun fact: **Laughing is also an exercise. 🤣**
-- 🎓 I’m a Systems Engineering student and self-taught developer
-- 💡 I enjoy turning ideas into reality through code and design
-- 📚 I'm constantly learning new technologies to improve my skills
-- 👯 I love collaborating on open-source projects and learning from others
+- 🎓 I’m a Systems Engineering student.
 
 ## 🌐 Portfolio
 
@@ -60,29 +55,15 @@ Check out my work: [kendrysdiaz.dev](https://tu-portafolio.com)
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
 </p>
 
-## 🚧 I’m currently working on
-
-- 🎨 A personal portfolio built with Next.js and TailwindCSS
-- 📱 A mobile app for task management using Flutter
-- 📊 Learning advanced D3.js visualizations
-
-## 🧠 Personal Interests
-
-- 🎵 I enjoy listening to music while coding
-- 🎮 Fan of indie and strategy video games
-- 📷 I like taking aesthetic photos for social media
-- 🧘‍♀️ Into mindfulness and productivity techniques
-
-## 🏅 Certifications
-
-- [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kendrys/responsive-web-design)
-- [JavaScript Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/kendrys/javascript-algorithms-and-data-structures)
-
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingkendrys&show_icons=true&theme=tokyonight" alt="kendrys's github stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingkendrys&layout=compact&theme=tokyonight" alt="kendrys's top languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ingkendrys&show_icons=true&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingkendrys&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
