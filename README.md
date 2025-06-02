@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendrys Diaz</h1>
 <h3 align="center">A passionate Front-End developer from Colombia 🇨🇴</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingkendrys&label=Profile%20views&color=0e75b6&style=flat" alt="ingkendrys" /> </p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ingkendrys&label=Profile%20views&color=0e75b6&style=flat" alt="ingkendrys" />
 </p>
@@ -60,10 +58,10 @@ Check out my work: [kendrysdiaz.dev](https://tu-portafolio.com)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ingkendrys&show_icons=true&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ingkendrys&show_icons=true&theme=algolia" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingkendrys&layout=compact&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingkendrys&layout=compact&theme=algolia" />
     </td>
   </tr>
 </table>
