@@ -15,7 +15,7 @@
 
 ## 🌐 Portfolio
 
-Check out my work: [kendrysdiaz.dev](https://tu-portafolio.com)
+Check out my work: [kendrysdiaz.dev](https://portfolio-kendrysdiazs-projects.vercel.app/)
 
 ## 🔗 Connect with me:
 
