@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **GeoAsistencia App**
+- 🔭 I’m currently working on **horarIA**
 - 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **React JS, HTML, CSS, SASS, SCSS**
 - ⚡ Fun fact: **Laughing is also an exercise. 🤣**
